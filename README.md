@@ -3,7 +3,7 @@
 ### Unity 2019.4.12.f1
 
 >##### Description
-Full project for youtube tutorials on unity3d. Project is free to use and customizable.
+>>Full project for youtube tutorials on unity3d. Project is free to use and customizable.
 Anyone can contributed to this project by creating a PR and providing descriptions on the PR which will
 be evaluated and merged.
 
